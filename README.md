@@ -48,16 +48,21 @@ Follow these steps to install the app locally:
    python pip install -m Django
    ```
 
-8. Start the Application:
+6. Start the Application:
 
    ```bash
    cd mySite
    python manage.py runserver
    ```
 
-9. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
+7. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
 
 ## Usage
+My first screenshot
+![First Screenshot](https://github.com/olis97/Django_I/blob/main/Screenshots/FIRST_USE_SCREENSHOT.png)
+My second screenshot
+![Second Screenshot](https://github.com/olis97/Django_I/blob/main/Screenshots/SECOND_USE_SCREENSHOT.png)
+
 
 Read my portfolio
 
